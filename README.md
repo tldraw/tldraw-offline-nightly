@@ -1,6 +1,6 @@
 # tldraw desktop (staging)
 
-The staging channel for [tldraw desktop](https://github.com/tldraw/tldraw-desktop) — built continuously from the latest source so the team can dogfood unreleased changes in a packaged build before they ship to stable users.
+The staging channel for [tldraw desktop](https://github.com/tldraw/tldraw-desktop) — built continuously from the latest source in a packaged build before they ship to stable users.
 
 Staging is intended for **internal/team use**. If you're an end user, install the stable build from [tldraw-desktop releases](https://github.com/tldraw/tldraw-desktop/releases/latest) instead.
 
