@@ -70,10 +70,6 @@ curl -X POST "http://localhost:$PORT/api/doc/{id}/exec" \
   -d '{"code": "return editor.getCurrentPageShapeIds().size"}'
 ```
 
-## Development
-
-Source code lives in the [`tldraw-internal`](https://github.com/tldraw/tldraw-internal) monorepo at `apps/public/desktop/`. Nightly builds are produced by the `release-desktop-staging.yml` workflow with `STAGING=true` at build time, which swaps the bundle id, product name, icon, app data directory, and publish repo. Nightly builds against the latest `canary` tldraw SDK.
-
 ## License
 
 tldraw offline nightly is not open source. All rights reserved.
