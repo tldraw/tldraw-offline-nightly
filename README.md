@@ -10,11 +10,11 @@ Artifact names are fixed across releases, so these links always point at the lat
 
 | Platform | Download |
 | --- | --- |
-| macOS (Apple silicon + Intel) | [tldraw-nightly-mac-universal.dmg](https://github.com/tldraw/tldraw-offline-nightly/releases/latest/download/tldraw-nightly-mac-universal.dmg) |
-| Windows x64 | [tldraw-nightly-win-x64.exe](https://github.com/tldraw/tldraw-offline-nightly/releases/latest/download/tldraw-nightly-win-x64.exe) |
-| Windows Arm64 | [tldraw-nightly-win-arm64.exe](https://github.com/tldraw/tldraw-offline-nightly/releases/latest/download/tldraw-nightly-win-arm64.exe) |
-| Linux x64 | [tldraw-nightly-linux-x86_64.AppImage](https://github.com/tldraw/tldraw-offline-nightly/releases/latest/download/tldraw-nightly-linux-x86_64.AppImage) or [tldraw-nightly-linux-amd64.deb](https://github.com/tldraw/tldraw-offline-nightly/releases/latest/download/tldraw-nightly-linux-amd64.deb) |
-| Linux Arm64 | [tldraw-nightly-linux-arm64.AppImage](https://github.com/tldraw/tldraw-offline-nightly/releases/latest/download/tldraw-nightly-linux-arm64.AppImage) |
+| macOS (Apple silicon + Intel) | [tldraw-offline-nightly-mac-universal.dmg](https://github.com/tldraw/tldraw-offline-nightly/releases/latest/download/tldraw-offline-nightly-mac-universal.dmg) |
+| Windows x64 | [tldraw-offline-nightly-win-x64.exe](https://github.com/tldraw/tldraw-offline-nightly/releases/latest/download/tldraw-offline-nightly-win-x64.exe) |
+| Windows Arm64 | [tldraw-offline-nightly-win-arm64.exe](https://github.com/tldraw/tldraw-offline-nightly/releases/latest/download/tldraw-offline-nightly-win-arm64.exe) |
+| Linux x64 | [tldraw-offline-nightly-linux-x86_64.AppImage](https://github.com/tldraw/tldraw-offline-nightly/releases/latest/download/tldraw-offline-nightly-linux-x86_64.AppImage) or [tldraw-offline-nightly-linux-amd64.deb](https://github.com/tldraw/tldraw-offline-nightly/releases/latest/download/tldraw-offline-nightly-linux-amd64.deb) |
+| Linux Arm64 | [tldraw-offline-nightly-linux-arm64.AppImage](https://github.com/tldraw/tldraw-offline-nightly/releases/latest/download/tldraw-offline-nightly-linux-arm64.AppImage) |
 
 Older builds are on the [Releases page](https://github.com/tldraw/tldraw-offline-nightly/releases). Versions are semver prereleases of the next release train, like `1.9.0-202607131439.9834194` (UTC timestamp + commit).
 
